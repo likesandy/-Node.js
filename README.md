@@ -22,10 +22,21 @@
 
 ### (二) JavaScript模块化
 
+  - [01-JavaScript的历史](02_JavaScript模块化/md/01-JavaScript的历史.md)
+  - [02-没有模块化带来的问题](02_JavaScript模块化/md/02-没有模块化带来的问题.md)
+  - [03-Node和CommonJS的关系](02_JavaScript模块化/md/03-Node和CommonJS的关系.md)
+  - [04-Node中模块的使用和本质](02_JavaScript模块化/md/04-Node中模块的使用和本质.md)
+  - [05-module.exports和exports的关系](02_JavaScript模块化/md/05-module.exports和exports的关系.md)
+
 ## 代码目录
 
 ### (一) 邂逅Node.js
+
   - [01-JavaScript代码的运行](01_邂逅Node.js/code/01-JavaScript代码的运行)
   - [02-给Node传递参数](01_邂逅Node.js/code/02-给Node传递参数/index.js)
   - [03-Node输出内容的方式](01_邂逅Node.js/code/03-Node输出内容的方式/index.js)
   - [04-Node中的全局对象](01_邂逅Node.js/code/04-Node中的全局对象)
+
+### (二) JavaScript模块化
+
+  - [01-JavaScript-module](02_JavaScript模块化/code/01-JavaScript-module)
