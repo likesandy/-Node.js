@@ -8,7 +8,7 @@
 
 ## 文档目录
 
-- `Node.js (一) 邂逅Node.js`
+### (一) 邂逅Node.js
   + [01-JS引擎和浏览器内核](01_邂逅Node.js/md/01-JS引擎和浏览器内核.md)
   + [02-V8引擎执行JavaScript代码原理](01_邂逅Node.js/md/02-V8引擎执行JavaScript代码原理.md)
   + [03-Node的架构和应用场景.md](01_邂逅Node.js/md/03-Node的架构和应用场景.md)
@@ -19,8 +19,8 @@
   + [08-给Node传递参数](01_邂逅Node.js/md/08-给Node传递参数.md)
   + [09-Node的输出](01_邂逅Node.js/md/09-Node的输出.md)
   + [10-Node常见的全局对象](01_邂逅Node.js/md/10-Node常见的全局对象.md)
-  
-- `Node.js (二) JavaScript模块化`
+
+### (二) JavaScript模块化
   + [01-JS引擎和浏览器内核](01_邂逅Node.js/md/01-JS引擎和浏览器内核.md)
   + [02-V8引擎执行JavaScript代码原理](01_邂逅Node.js/md/02-V8引擎执行JavaScript代码原理.md)
   + [03-Node的架构和应用场景.md](01_邂逅Node.js/md/03-Node的架构和应用场景.md)
@@ -34,7 +34,7 @@
 
 ## 代码目录
 
-- `Node.js (一) 邂逅Node.js`
+### (一) 邂逅Node.js
   + [01-JavaScript代码的运行](01_邂逅Node.js/code/01-JavaScript代码的运行)
   + [01-JavaScript代码的运行](01_邂逅Node.js/code/01-JavaScript代码的运行)
   + [01-JavaScript代码的运行](01_邂逅Node.js/code/01-JavaScript代码的运行)
