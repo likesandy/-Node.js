@@ -27,6 +27,8 @@
   - [03-Node和CommonJS的关系](02_JavaScript模块化/md/03-Node和CommonJS的关系.md)
   - [04-Node中模块的使用和本质](02_JavaScript模块化/md/04-Node中模块的使用和本质.md)
   - [05-module.exports和exports的关系](02_JavaScript模块化/md/05-module.exports和exports的关系.md)
+  - [06-require的导入细节](02_JavaScript模块化/md/06-require的导入细节.md)
+  - [07-模块的加载过程](02_JavaScript模块化/md/07-模块的加载过程.md)
 
 ## 代码目录
 
