@@ -29,6 +29,7 @@
   - [05-module.exports和exports的关系](02_JavaScript模块化/md/05-module.exports和exports的关系.md)
   - [06-require的导入细节](02_JavaScript模块化/md/06-require的导入细节.md)
   - [07-模块的加载过程](02_JavaScript模块化/md/07-模块的加载过程.md)
+  - [08-AMD实现库require.js](02_JavaScript模块化/md/08-AMD实现库require.js.md)
 
 ## 代码目录
 
