@@ -31,7 +31,8 @@
   - [07-模块的加载过程](02_JavaScript模块化/md/07-模块的加载过程.md)
   - [08-AMD实现库require.js](02_JavaScript模块化/md/08-AMD实现库require.js.md)
   - [09-CMD实现库sea.js](02_JavaScript模块化/md/09-CMD实现库sea.js.md)
-
+  - [10-ES-Module的基本使用](02_JavaScript模块化/md/10-ES-Module的基本使用.md)
+  - [11-CJS和ES的交互](02_JavaScript模块化/md/11-CJS和ES的交互.md)
 ## 代码目录
 
 ### (一) 邂逅Node.js
@@ -47,3 +48,7 @@
   - [02-CommonJS](02_JavaScript模块化/code/02-CommonJS)
   - [03-AMD](02_JavaScript模块化/code/03-AMD)
   - [04-CMD](02_JavaScript模块化/code/04-CMD)
+  - [05-ESModule](02_JavaScript模块化/code/05-ESModule)
+  - [06-ESModule2](02_JavaScript模块化/code/06-ESModule2)
+  - [07-CJS和ES相互调用](02_JavaScript模块化/code/07-CJS和ES相互调用)
+  - [08-Node-ESModule](02_JavaScript模块化/code/08-Node-ESModule)
