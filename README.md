@@ -42,13 +42,13 @@
 
 ### 包管理工具详解
 
-  * [认识npm](03_Node常用内置模块/md/01-内置模块path.md)
-  * [package.json常见属性](03_Node常用内置模块/md/01-内置模块path.md)
-  * [全局安装和局部安装](03_Node常用内置模块/md/01-内置模块path.md)
-  * [npm安装包的原理](03_Node常用内置模块/md/01-内置模块path.md)
-  * [package-lock.json的作用](03_Node常用内置模块/md/01-内置模块path.md)
-  * [npm其他命令的补充](03_Node常用内置模块/md/01-内置模块path.md)
-  * [认识yarn和cnpm工具](03_Node常用内置模块/md/01-内置模块path.md)
-  * [了解npx命令的使用](03_Node常用内置模块/md/01-内置模块path.md)
+  * [认识npm](03_Node常用内置模块/md/01-认识npm.md)
+  * [package.json常见属性](03_Node常用内置模块/md/02-package.json常见属性.md)
+  * [全局安装和局部安装](03_Node常用内置模块/md/03-全局安装和局部安装.md)
+  * [npm安装包的原理](03_Node常用内置模块/md/04-npm安装包的原理.md)
+  * [package-lock.json的作用](03_Node常用内置模块/md/05-package-lock.json的作用.md)
+  * [npm其他命令的补充](03_Node常用内置模块/md/06-npm其他命令的补充.md)
+  * [认识yarn和cnpm工具](03_Node常用内置模块/md/07-认识yarn和cnpm工具.md)
+  * [了解npx命令的使用](03_Node常用内置模块/md/08-了解npx命令的使用.md)
 
 [▲ 回到顶部](#top)
