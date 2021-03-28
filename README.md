@@ -31,7 +31,7 @@
   * [模块的加载过程](02_JavaScript模块化/md/07-模块的加载过程.md)
   * [AMD实现库require.js](02_JavaScript模块化/md/08-AMD实现库require.js.md)
   * [CMD实现库sea.js](02_JavaScript模块化/md/09-CMD实现库sea.js.md)
-  * [ESModule的基本使用](02_JavaScript模块化/md/10-ES*Module的基本使用.md)
+  * [ESModule的基本使用](02_JavaScript模块化/md/10-ES-Module的基本使用.md)
   * [CJS和ES的交互](02_JavaScript模块化/md/11-CJS和ES的交互.md)
 
 
