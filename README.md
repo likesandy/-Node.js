@@ -40,5 +40,15 @@
   * [内置模块fs](03_Node常用内置模块/md/02-内置模块fs.md)
   * [events模块](03_Node常用内置模块/md/03-events模块.md)
 
+### 包管理工具详解
+
+  * [认识npm](03_Node常用内置模块/md/01-内置模块path.md)
+  * [package.json常见属性](03_Node常用内置模块/md/01-内置模块path.md)
+  * [全局安装和局部安装](03_Node常用内置模块/md/01-内置模块path.md)
+  * [npm安装包的原理](03_Node常用内置模块/md/01-内置模块path.md)
+  * [package-lock.json的作用](03_Node常用内置模块/md/01-内置模块path.md)
+  * [npm其他命令的补充](03_Node常用内置模块/md/01-内置模块path.md)
+  * [认识yarn和cnpm工具](03_Node常用内置模块/md/01-内置模块path.md)
+  * [了解npx命令的使用](03_Node常用内置模块/md/01-内置模块path.md)
 
 [▲ 回到顶部](#top)
